@@ -4,8 +4,6 @@ import org.bukkit.plugin.java.JavaPlugin
 
 class KotlinItemStack : JavaPlugin() {
 
-    //тут примеры:
-
     ////ItemStackBuilder
     //val item = ItemStackBuilder(material = Material.IRON_SWORD, name = "Серебрянный меч", customModelData = 1000).build()
 
