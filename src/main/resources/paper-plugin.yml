@@ -1,0 +1,7 @@
+name: KotlinItemStack
+version: '1.0'
+main: ru.k0cteJl.kotlinItemStack.KotlinItemStack
+api-version: '1.21'
+prefix: KIS
+load: STARTUP
+authors: [ k0cteJl ]
